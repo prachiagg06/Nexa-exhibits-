@@ -39,7 +39,7 @@ npm install
 
 Start the development server
 ---
-npm start
+npm run dev
 
 Open in browser: http://localhost:3000
 
