@@ -27,9 +27,10 @@ It showcases the company’s **portfolio**, **services**, and provides an **inte
 ## ⚡ Setup & Run Locally
 
 1. **Clone the repository**
-git clone https://github.com/prachiagg06/Nexa-exhibits-.git
 
-cd nexa-exhibits
+ git clone https://github.com/prachiagg06/Nexa-exhibits-.git
+
+ cd nexa-exhibits
 
 ---
 Install dependencies
