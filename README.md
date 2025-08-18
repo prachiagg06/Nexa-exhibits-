@@ -42,11 +42,13 @@ npm start
 Open in browser: http://localhost:3000
 
 📌 Usage
+
 Navigate through Home, Portfolio, Services, and Contact sections.
 Fill the Contact Form to test frontend interactivity.
 Customize images, content, and portfolio items as per your branding.
 
 🚀 Future Enhancements
+
 Backend integration to store contact inquiries
 Dynamic portfolio items from CMS or API
 Multi-language support
