@@ -32,10 +32,11 @@ cd nexa-exhibits
 
 ---
 Install dependencies
+
 npm install
 ---
-
 Start the development server
+
 npm start
 ---
 Open in browser: http://localhost:3000
