@@ -48,7 +48,7 @@ Test the Contact Form (frontend-only).
 Customize images, text, and portfolio items to fit your brand.
 
 🚀 Future Enhancements
-Backend integration for storing contact inquiries
+ Backend integration for storing contact inquiries
 Dynamic portfolio items fetched from CMS or API
 Multi-language support
 SEO optimization
