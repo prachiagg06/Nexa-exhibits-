@@ -18,50 +18,50 @@ const goToContact = ()=> {
     {
       src: "/images/exhibit1.jpeg",
       title: "Shavison Industrial Automation",
-      subtitle: "Peripherals Exhibition",
-      description: "Cutting-edge industrial automation solutions showcased with precision and elegance"
+      // subtitle: "Peripherals Exhibition",
+      // description: "Cutting-edge industrial automation solutions showcased with precision and elegance"
     },
     {
       src: "/images/exhibit2.jpeg",
       title: "Viva Metal Composites",
-      subtitle: "Premium Panel Solutions",
-      description: "Revolutionary metal composite panels transforming architectural possibilities"
+      // subtitle: "Premium Panel Solutions",
+      // description: "Revolutionary metal composite panels transforming architectural possibilities"
     },
     {
       src: "/images/exhibit3.jpeg",
       title: "Videojet Technologies",
-      subtitle: "Industrial Coding & Marking",
-      description: "Advanced coding solutions engineered for industrial excellence and reliability"
+      // subtitle: "Industrial Coding & Marking",
+      // description: "Advanced coding solutions engineered for industrial excellence and reliability"
     },
     {
       src: "/images/exhibit4.jpeg",
       title: "Indofil Industries",
-      subtitle: "Chemistry for Growth",
-      description: "Innovative chemical solutions driving sustainable industrial development"
+      // subtitle: "Chemistry for Growth",
+      // description: "Innovative chemical solutions driving sustainable industrial development"
     },
     {
       src: "/images/exhibit5.jpeg",
       title: "Ultra Caps & Bottles",
-      subtitle: "Packaging Excellence",
-      description: "Premium packaging solutions crafted with uncompromising quality standards"
+      // subtitle: "Packaging Excellence",
+      // description: "Premium packaging solutions crafted with uncompromising quality standards"
     },
     {
       src: "/images/exhibit6.jpeg",
       title: "Onyx Canon",
-      subtitle: "Digital Innovation",
-      description: "State-of-the-art digital solutions redefining creative possibilities"
+      // subtitle: "Digital Innovation",
+      // description: "State-of-the-art digital solutions redefining creative possibilities"
     },
     {
       src: "/images/exhibit7.jpeg",
       title: "Premier Rubber Machinery",
-      subtitle: "Manufacturing Excellence",
-      description: "Precision-engineered machinery solutions for the rubber industry"
+      // subtitle: "Manufacturing Excellence",
+      // description: "Precision-engineered machinery solutions for the rubber industry"
     },
     {
       src: "/images/exhibit8.jpeg",
       title: "Accufix Precision Tools",
-      subtitle: "Surgical Precision",
-      description: "Medical-grade precision tools crafted for surgical excellence"
+      // subtitle: "Surgical Precision",
+      // description: "Medical-grade precision tools crafted for surgical excellence"
     }
   ];
 
