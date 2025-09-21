@@ -1,3 +1,5 @@
+
+
 .header {
   position: fixed;
   top: 0;
@@ -30,8 +32,8 @@
   display: flex;
   justify-content: space-between;
   align-items: center;
-  padding: 1rem 2rem;
-  max-width: 1200px;
+  padding: 1.08rem 2rem;
+  /* max-width: 1200px; */
   margin: 0 auto;
   position: relative;
   z-index: 2;
@@ -48,10 +50,21 @@
 .logo:hover {
   transform: scale(1.05);
 }
+.logo-link {
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+
+.logo-img {
+  height: 65px;   /* Adjust size */
+  margin-right: 8px;
+}
 
 .logo-text {
   color: #ffffff;
   margin-right: 0.3rem;
+  font-size: 1200;
 }
 
 .logo-highlight {
@@ -60,6 +73,7 @@
   background-clip: text;
   -webkit-text-fill-color: transparent;
   position: relative;
+  font-size: 1200;
 }
 
 .logo-highlight::after {
@@ -282,3 +296,5 @@
 .header-container:hover::after {
   opacity: 1;
 }
+
+

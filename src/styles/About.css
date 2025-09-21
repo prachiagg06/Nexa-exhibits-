@@ -6,7 +6,7 @@
 
 .about-hero {
   position: relative;
-  height: 60vh;
+  height: 40vh;
   display: flex;
   align-items: center;
   justify-content: center;
@@ -159,11 +159,11 @@
 }
 
 .section-title {
-  display: flex;
+  /* display: flex; */
   align-items: center;
   gap: 1.5rem;
   font-size: clamp(2rem, 4vw, 3rem);
-  font-weight: 700;
+  font-weight: 7000;
   color: #1a1a1a;
   margin-bottom: 2rem;
   position: relative;
@@ -346,17 +346,19 @@
 }
 
 .stats-section {
-  background: linear-gradient(135deg, #1a1a1a, #0a0a0a);
+  /* background: linear-gradient(135deg, #1a1a1a, #0a0a0a); */
   padding: 4rem 2rem;
   border-radius: 20px;
-  margin-top: 3rem;
+  /* margin-top: 3rem; */
   position: relative;
   overflow: hidden;
+  margin-bottom: 3rem;
 }
+
 
 .stats-section::before {
   content: '';
-  position: absolute;
+  /* position: absolute; */
   top: 0;
   left: 0;
   right: 0;
