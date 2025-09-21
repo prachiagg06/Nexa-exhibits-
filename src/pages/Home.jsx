@@ -108,7 +108,7 @@ const goToContact = ()=> {
       {/* Hero Section with sophisticated overlay */}
       <section
         className="hero"
-        style={{ backgroundImage: "url('/images/bg5.jpeg')" }}
+        style={{ backgroundImage: "url('/images/bg1.jpeg')" }}
       >
         <div className="hero-overlay"></div>
         <div className="hero-grain"></div>
